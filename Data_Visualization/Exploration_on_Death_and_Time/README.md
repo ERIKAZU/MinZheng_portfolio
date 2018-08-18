@@ -2,9 +2,9 @@
 Through this project, we would like to expose the viewers to the topic of death, and make them realize how precious the time is in order to cherish their lives. We started by showing the top 5 death causes of U.S. residents at different age groups. Then, we designed an individualized experience to let viewers input their demographic data to see how much time they have spent in their whole life and how much time is left for them to spend in the future. By interacting with the time dots, users can also obtain information of their daily time usage in different life stages, and get a general sense of how they would be spending the rest of their lives.
 <p align="center">
   <b>Team:</b><br>
-  <a href="#">Min Zheng</a> |
-  <a href="#">Kexin Jiang</a> |
-  <a href="#">Yicheng Zhu</a>
+  <a>Min Zheng</a> |
+  <a>Kexin Jiang</a> |
+  <a>Yicheng Zhu</a>
 </p>
 
  ##  Design and Story
@@ -16,6 +16,8 @@ After clicking on each age group, a bubble chart will show the time spending bre
 [Sketch and Wirefram](/img/sketch.jpeg)
 
  ##  Visualization Layout
+ ![](https://github.com/ERIKAZU/MinZheng_portfolio/tree/master/Data_Visualization/Exploration_on_Death_and_Time/img/layout1.png)
+
  ![](images/layout1.png?raw=true)
 
  ![](/img/layout2.png)
