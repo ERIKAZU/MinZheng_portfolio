@@ -15,7 +15,7 @@ There are two layers of session one. The outer circle showed the top 5 death cau
 For session two, after two inputs - age and gender, the circle matrix showed your total life length. Each circle represents each year, in which grey presents the life you have already lived and the green shows the rest of life you could possibly live. The animation is inspired by hourglass to show the eclipse of time.
   
 After clicking on each age group, a bubble chart will show the time spending breakdown, while different colors representing different activities and the radius is mapped by scaleSqrt() to the percentage of activity spending time.
-[Sketch and Wirefram](img/sketch.jpeg)
+[Sketch and Wirefram](img/sketch.PNG)
 
  ##  Visualization Layout
 
