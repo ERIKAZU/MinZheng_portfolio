@@ -16,13 +16,15 @@ After clicking on each age group, a bubble chart will show the time spending bre
 [Sketch and Wirefram](/img/sketch.jpeg)
 
  ##  Visualization Layout
- ![](https://github.com/ERIKAZU/MinZheng_portfolio/tree/master/Data_Visualization/Exploration_on_Death_and_Time/img/layout1.png)
 
- ![](images/layout1.png?raw=true)
+
+ ![](/img/layout1.png)
 
  ![](/img/layout2.png)
 
  ![](/img/layout3.png)
+ 
+
 
  ##  Project Report
  More details about the project can be found at:
