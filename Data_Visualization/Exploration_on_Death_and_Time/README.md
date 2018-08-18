@@ -16,7 +16,7 @@ After clicking on each age group, a bubble chart will show the time spending bre
 [Sketch and Wirefram](/img/sketch.jpeg)
 
  ##  Visualization Layout
- <img src="images/k8s-layout1.png" width=800 /> ![](images/k8s-layout1.png)
+ <img src="images/layout1.png" width=400 /> ![](images/layout1.png)
 
  ![](/img/layout2.png)
 
