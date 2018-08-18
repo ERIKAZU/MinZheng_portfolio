@@ -19,11 +19,11 @@ After clicking on each age group, a bubble chart will show the time spending bre
 
  ##  Visualization Layout
 
-  ![](/img/layout1.png)
+  ![](img/layout1.png)
 
-  ![](/img/layout2.png)
+  ![](img/layout2.png)
 
-  ![](/img/layout3.png)
+  ![](img/layout3.png)
 
  ##  Project Report
  More details about the project can be found at:
