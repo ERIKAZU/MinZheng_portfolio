@@ -10,4 +10,4 @@ Self-driven learner, researcher and developer in robotics, smart hardware and un
 ## Embedded System Projects
 
 * Automatic Pill Dispenser (Python + Raspberry Pi) [project website](http://bit.ly/2kgnpyR)
-* 
+* Autonomous Path-following Vehicle (C/C++ + Arduino)
