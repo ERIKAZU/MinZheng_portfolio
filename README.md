@@ -14,6 +14,11 @@ Self-driven learner, researcher and developer in robotics, smart hardware and un
 <img src="/Data_Visualization/Harry_Potter/img/layout1.png" alt="Harry_Potter_1" width="600">
 
 
+* [A Look Into Mental Health Status of U.S. Residence](/Data_Visualization/Mental_Health_Analysis) (Static)
+<img src="/Data_Visualization/Mental_Health_Analysis/img/layout1.png" alt="Mental_Health_Analysis_1" width="600">
+<img src="/Data_Visualization/Mental_Health_Analysis/img/layout2.png" alt="Mental_Health_Analysis_2" width="600">
+
+
 ## Full-Stack Projects
 
 ## Embedded System Projects
