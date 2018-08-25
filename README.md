@@ -4,6 +4,15 @@ Self-driven learner, researcher and developer in robotics, smart hardware and un
 
 ## Research Projects
 * 
+## [Data Visualization Projects](/Data_Visualization)
+
+* [How Much Time You Have Left: An Exploration on Death and Time](/Data_Visualization/Exploration_on_Death_and_Time) (Interactive)
+<img src="/Data_Visualization/Exploration_on_Death_and_Time/img/layout1.png" alt="Exploration_on_Death_and_Time_1" width="500">
+
+
+* [The Cartoon World of Harry Potter](/Data_Visualization/Harry_Potter) (Interactive)
+<img src="/Data_Visualization/Harry_Potter/img/layout1.png" alt="Harry_Potter_1" width="600">
+
 
 ## Full-Stack Projects
 
