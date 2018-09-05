@@ -2,8 +2,8 @@
 New Grad of Cornell University, M.S. of Engineering, with strong interest across the fields of computer science and mechanical engineering. 
 Self-driven learner, researcher and developer in robotics, smart hardware and unmanned vehicles.
 
-## Research Projects
-* 
+
+ 
 ## [Data Visualization Projects](/Data_Visualization)
 
 * [How Much Time You Have Left: An Exploration on Death and Time](/Data_Visualization/Exploration_on_Death_and_Time) (Interactive)
@@ -20,6 +20,20 @@ Self-driven learner, researcher and developer in robotics, smart hardware and un
 
 
 ## Full-Stack Projects
+* [Foddie Gallery](/PHP/WebDev_Image_Gallery_for_Foodies) 
+  * An online gallery for foddies to upload, tag and edit their images. 
+  * Support user login/logout and access control.
+<img src="/PHP/WebDev_Image_Gallery_for_Foodies/screenshots/1.png" alt="ss1" width="600">
+<img src="/PHP/WebDev_Image_Gallery_for_Foodies/screenshots/2.png" alt="ss2" width="600">
+<img src="/PHP/WebDev_Image_Gallery_for_Foodies/screenshots/3.png" alt="ss3" width="600">
+<img src="/PHP/WebDev_Image_Gallery_for_Foodies/screenshots/4.png" alt="ss4" width="600">
+
+* [Company website for Pietrzak & Pfau Engineering and Surveying Firm](/PHP/Company_Website)
+  * Display the client’s projects and team information according to client's need
+  * Allows searching with different attributes
+<img src="/PHP/Company_Website/screenshots/1.png" alt="ss1" width="600">
+<img src="/PHP/Company_Website/screenshots/2.png" alt="ss2" width="600">
+
 
 ## Embedded System Projects
 
