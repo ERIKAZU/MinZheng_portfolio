@@ -37,5 +37,13 @@ Self-driven learner, researcher and developer in robotics, smart hardware and un
 
 ## Embedded System Projects
 
+* [Lane Detection for Intelligent Driving Assistant Systems](/Computer_Vision_Lane_Detection) (Python, OpenCV)
+ * Developed a series of algorithms that detect lane marks in real world driving scenario
+ * Achieved high robustness and precision comparable to some published works
+<img src="/Computer_Vision_Lane_Detection/screenshots/1.png" alt="ss1" width="600">
+<img src="/Computer_Vision_Lane_Detection/screenshots/2.png" width="600">
+
+## Embedded System Projects
+
 * [Automatic Pill Dispenser](/Embedded_System_Auto_Pill_Dispenser) (Python + Raspberry Pi) [project website](http://bit.ly/2kgnpyR)
 * Autonomous Path-following Vehicle (C/C++ + Arduino)
