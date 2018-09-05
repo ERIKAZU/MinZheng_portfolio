@@ -24,22 +24,16 @@ Self-driven learner, researcher and developer in robotics, smart hardware and un
   * An online gallery for foddies to upload, tag and edit their images. 
   * Support user login/logout and access control.
 <img src="/PHP/WebDev_Image_Gallery_for_Foodies/screenshots/1.png" alt="ss1" width="600">
+<img src="/PHP/WebDev_Image_Gallery_for_Foodies/screenshots/2.png" alt="ss2" width="600">
 <img src="/PHP/WebDev_Image_Gallery_for_Foodies/screenshots/3.png" alt="ss3" width="600">
+<img src="/PHP/WebDev_Image_Gallery_for_Foodies/screenshots/4.png" alt="ss4" width="600">
 
-* [Company website for Pietrzak & Pfau Engineering and Surveying Firm](/PHP/Company_Website)
+* [Company website for Pietrzak & Pfau Engineering and Surveying Firm]
   * Display the client’s projects and team information according to client's need
   * Allows searching with different attributes
 <img src="/PHP/Company_Website/screenshots/1.png" alt="ss1" width="600">
 <img src="/PHP/Company_Website/screenshots/2.png" alt="ss2" width="600">
 
-
-## Embedded System Projects
-
-* [Lane Detection for Intelligent Driving Assistant Systems](/Computer_Vision_Lane_Detection) (Python, OpenCV)
- * Developed a series of algorithms that detect lane marks in real world driving scenario
- * Achieved high robustness and precision comparable to some published works
-<img src="/Computer_Vision_Lane_Detection/screenshots/1.png" alt="ss1" width="600">
-<img src="/Computer_Vision_Lane_Detection/screenshots/2.png" width="600">
 
 ## Embedded System Projects
 
